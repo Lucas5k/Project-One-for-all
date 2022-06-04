@@ -79,6 +79,7 @@ describe('Queries de seleção', () => {
         `SELECT COUNT(${planColumn}) AS quantidade_planos FROM ${planTable};`,
         { type: 'SELECT' },
       );
+
       expect(plansCount).toEqual([{ quantidade_planos: 4 }]);
 
       expect(await hasForeignKey(userTable, planTable)).toBeTruthy();
