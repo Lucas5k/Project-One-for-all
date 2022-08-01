@@ -1,20 +1,35 @@
 # Project-One-for-all
 
-<h1 align="center">:file_cabinet: Exemplo de README.md</h1>
-
 ## :memo: Descrição
-Escreva uma descrição do seu projeto
+Nesse projeto revisamos o conteúdo passado e consolidamos os conceitos, que consistia em Criar Queries Sql.
+E além disso colocamos em prática a criação de um banco de dados do zero utilizando os três métodos de normalização de banco de dados,
+para reduzir a redundância de dados, aumentar a integridade de dados e o desempenho.
+
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
+* <b>Funcionalidade 1</b>: Usa os três métodos de normalização de banco de dados.
+* <b>Funcionalidade 2</b>: Popular tabelas;
+* <b>Funcionalidade 3</b>: Executar queries para encontrar informações solicitadas;
+
 
 ## :wrench: Tecnologias utilizadas
-* Tecnologia;
+- MSQL;
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<linha de comando>
+- Clone o repositório
+git clone git@github.com:Lucas5k/Projeto-frontend-online-store.git
+
+- Entre no arquivo do projeto
+cd Projeto-frontend-online-store
+
+- Instale as dependências
+npm install
+
+- Inicialize o projeto
+npm start
+
 ```
 
 ## :soon: Implementação futura
