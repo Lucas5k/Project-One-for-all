@@ -28,7 +28,7 @@ cd Project-One-for-all
 npm install
 
 - Inicialize o projeto
-npm start
+docker-compose up -d
 
 ```
 
