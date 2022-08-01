@@ -19,10 +19,10 @@ para reduzir a redundância de dados, aumentar a integridade de dados e o desemp
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 - Clone o repositório
-git clone git@github.com:Lucas5k/Projeto-frontend-online-store.git
+git clone git@github.com:Lucas5k/Project-One-for-all.git
 
 - Entre no arquivo do projeto
-cd Projeto-frontend-online-store
+cd Project-One-for-all
 
 - Instale as dependências
 npm install
