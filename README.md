@@ -32,9 +32,6 @@ npm start
 
 ```
 
-## :soon: Implementação futura
-* O que será implementado na próxima sprint?
-
 ## :handshake: Colaboradores
 <table>
   <tr>
@@ -48,5 +45,3 @@ npm start
     </td>
   </tr>
 </table>
-
-## :dart: Status do projeto
