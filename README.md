@@ -1,7 +1,7 @@
 # Project-One-for-all
 
 ## :memo: Descrição
-Nesse projeto revisamos o conteúdo passado e consolidamos os conceitos, que consistia em Criar Queries Sql.
+Terceiro projeto no modúlo de back-end, Nesse projeto revisamos o conteúdo passado que consistia em Queries SQL, que consistia em Criar Queries Sql.
 E além disso colocamos em prática a criação de um banco de dados do zero utilizando os três métodos de normalização de banco de dados,
 para reduzir a redundância de dados, aumentar a integridade de dados e o desempenho.
 
