@@ -7,9 +7,9 @@ para reduzir a redundância de dados, aumentar a integridade de dados e o desemp
 
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: Usa os três métodos de normalização de banco de dados.
-* <b>Funcionalidade 2</b>: Popular tabelas;
-* <b>Funcionalidade 3</b>: Executar queries para encontrar informações solicitadas;
+  <ol><b>Funcionalidade 1</b>: Usa os três métodos de normalização de banco de dados.</ol>
+  <ol><b>Funcionalidade 2</b>: Popular tabelas;</ol>
+  <ol><b>Funcionalidade 3</b>: Executar queries para encontrar informações solicitadas;</ol>
 
 
 ## <h3>:wrench: Tecnologias utilizadas</h3>
