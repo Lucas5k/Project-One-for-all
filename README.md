@@ -12,7 +12,7 @@ para reduzir a redundância de dados, aumentar a integridade de dados e o desemp
 * <b>Funcionalidade 3</b>: Executar queries para encontrar informações solicitadas;
 
 
-## :wrench: <h3>Tecnologias utilizadas</h3>
+## <h3>:wrench: Tecnologias utilizadas</h3>
 - MSQL;
 
 ## :rocket: Rodando o projeto
